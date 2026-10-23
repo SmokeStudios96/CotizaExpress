@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "cl.smokestudios.cotizaexpress",
-      "sha256_cert_fingerprints": [
-        "00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "cl.smokestudios.cotizaexpress",
+        "sha256_cert_fingerprints": ["7E:17:81:AB:65:28:46:8D:19:89:A9:70:CF:4F:66:2E:3E:EB:1D:CC:0D:36:77:C8:DD:18:84:2D:AB:60:00:33"]
+      }
+    }]
